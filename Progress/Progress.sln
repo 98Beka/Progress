@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRChat", "..\SignalRCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogService", "LogService\LogService.csproj", "{2503714A-7F38-4AA2-9BB1-A32A4E20E315}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tstLogProducer", "tstLogProducer\tstLogProducer.csproj", "{8F019640-A928-40B4-9280-44D484760C83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{2503714A-7F38-4AA2-9BB1-A32A4E20E315}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2503714A-7F38-4AA2-9BB1-A32A4E20E315}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2503714A-7F38-4AA2-9BB1-A32A4E20E315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F019640-A928-40B4-9280-44D484760C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F019640-A928-40B4-9280-44D484760C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F019640-A928-40B4-9280-44D484760C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F019640-A928-40B4-9280-44D484760C83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
